@@ -1,0 +1,5 @@
+Restricciones:
+-Dicha app no contará con mensajería privada.
+-Los comentarios en cada foto/publicación no serán guardados en la base de datos.
+-El nombre de las cuentas serán permanentes, sin posibilidad de cambios.
+-no se permitirá descargar fotos de la página
