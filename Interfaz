@@ -1,10 +1,13 @@
 La interfaz de photo travel está inspirada en la de Instagram y apps similares 
 
+IU LOGIN
 Cuando el usuario ingrese a la app, se verá la interfaz de "inicio de sesión" en la que deberá seguir dos sencillos pasos, los cuales serían, 
 el colocar su correo y contraseña. Y en el caso que aún no tenga una cuenta registrada podrá realizar dicho registro desde la opción que le da la interfaz. 
 
+IU REGISTRO
 Aunque se muestre el mismo diseño de login, la diferencia sería que al rellenar con la información requerida y dar clic en "registrarse",
 el correo y contraseña serán enviados a login y así podrá iniciar su sesión.
 
+IU PRINCIPAL
 En la interfaz se nota una similitud a instagram como se menciona anteriormente, la representación de los "me gusta" o "likes" serán en forma de un corazón, 
 la cual sera la interacción característica del apoyo a cada imagen.
